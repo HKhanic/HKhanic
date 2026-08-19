@@ -25,7 +25,7 @@ Software Development student interested in **cybersecurity, Linux, networking, a
 ### Homelab
 
 I run a personal homelab focused on self-hosting, networking, and infrastructure.  
-I've worked with **Nginx Proxy Manager, Nextcloud, MariaDB, AdGuard Home, Jellyfin, Uptime Kuma, CrowdSec, Docker networking, and virtual machines.**
+I've worked with **Nginx Proxy Manager, Nextcloud, AdGuard Home, Jellyfin, Uptime Kuma, Docker networking, and virtual machines.**
 
 ### Currently learning
 
